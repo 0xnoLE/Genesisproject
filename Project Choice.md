@@ -2,6 +2,8 @@
 
 Project Overview: Build a web platform that aggregates public data (like census, environmental, or traffic data) and presents it in an engaging, interactive format to tell stories about community issues, growth, and changes.
 
+This should read liike a blog so it can properly fit in the Jekkyl format hosted by Github.
+
 
 Let's start brainstorming an outline:
 
